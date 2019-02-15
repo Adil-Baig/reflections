@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Hidden status files are created in the repository. To use version 
+	control offered by Git.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	Staging area is an amalgamation of one or more commits.
+	It can hold all or some of the new files added to the working directory.
+
