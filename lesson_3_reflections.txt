@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+    Remote repositories are an asset when you are working on a project with other collaborators.
+    It also comes in handy if we want to continue our work from another system or make changes
+    from another computer.
